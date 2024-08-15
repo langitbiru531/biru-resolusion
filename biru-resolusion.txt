@@ -2,5 +2,5 @@ BIRU RESOLUSI
 -abc
 -def
 -ghi
--jkl
 -mno
+-pqr
