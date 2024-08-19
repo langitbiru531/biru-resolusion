@@ -3,7 +3,10 @@ RENCANA BIRU
 - ABC
  * MNO
  * PQR
+  ^ AR
+  ^ PV
 - STU
 - DEF
+  ^ YZ
 - GHI
 - JKL
