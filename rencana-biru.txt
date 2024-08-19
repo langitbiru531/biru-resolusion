@@ -1,6 +1,8 @@
 RENCANA BIRU
 
 - ABC
+ * MNO
+ * PQR
 - DEF
 - GHI
 - JKL
