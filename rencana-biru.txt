@@ -4,6 +4,7 @@ RENCANA BIRU
  * MNO
  * PQR
   ^ VWX
+  ^ PV
 - STU
 - DEF
   ^YZ
